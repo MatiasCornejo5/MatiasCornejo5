@@ -2,7 +2,7 @@
 <!--  -->
 <p align="center">
   
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Header](./your-header-image-name.png)
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 
