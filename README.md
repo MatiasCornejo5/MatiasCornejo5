@@ -1,4 +1,11 @@
 <h1 align="center">Hi 👋, I'm Matias Cornejo</h1>
+
+- I was a student of the bachelor's degree in systems at the National University of Comahue(UNCo), but I did not manage to graduate.
+
+- I am currently studying computer security at the Catholic University of Salta(UCASAL).
+
+- I’m currently open for an Intern or a new job opportunity
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/matiascornejo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matiascornejo" height="30" width="40" /></a>
